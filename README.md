@@ -30,6 +30,7 @@ This repository contains a baseline implementation for classifying the **Fashion
 - **Validation Accuracy:** *87.70%*
 - **Test Accuracy:** *87.62%*
 
+---
 ### 🔧 Running Instructions
 
 - [Run with Google Colab](https://colab.research.google.com/drive/1epxaNQHkUGV2i0aTZUupd8iYg6ygIBOS?usp=sharing) (recommended)
