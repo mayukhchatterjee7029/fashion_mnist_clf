@@ -42,7 +42,7 @@ This repository contains a baseline implementation for classifying the **Fashion
 * numpy, pandas, matplotlib
 
 
-Install via ([miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) recommended, reffer [TensorFlow](https://www.tensorflow.org/install)'s official website for more details and guidance):
+Install via [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) (recommended, reffer to [TensorFlow](https://www.tensorflow.org/install)'s official website for more details and guidance):
 
 ```bash
 conda install numpy pandas matplotlib
