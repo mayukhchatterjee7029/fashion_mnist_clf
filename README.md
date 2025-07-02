@@ -44,10 +44,10 @@ This repository contains a baseline implementation for classifying the **Fashion
 
 Install via [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) (recommended, reffer to [TensorFlow](https://www.tensorflow.org/install)'s official website for more details and guidance):
 
-```bash
+```python
 conda install numpy pandas matplotlib
 ```
-```bash
+```python
 pip install tensorflow
 ```
 
